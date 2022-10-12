@@ -12,6 +12,6 @@ I'm Geoffroy! Looking for understanding what lie between our two ears :)
 <p align="center">
 <a>
   <img src="/images/oneofthesevasesisfake.jpg" width="50%"/>
-  <img src="/images/oneofthesevasesisfake.jpg" width="50%"/>
+  <img src="/images/MLOpportunities.png" width="50%"/>
 </a>
 </p>
