@@ -3,13 +3,8 @@
 
 <p align="center">
 I'm Geoffroy! Looking for understanding what lie between our two ears :)
-✨ _In fact, the greater your science, the deeper your awareness of the mystery._ ✨  **Vladimir Nabokov**, ***Intransigeances*** (1973)
+✨ *_In fact, the greater your science, the deeper your awareness of the mystery._* ✨ **Vladimir Nabokov**, ***Intransigeances*** (1973)
 </p>
-
-
-If you find the content I create useful <b>[consider becoming a Patreon](https://www.patreon.com/theaiepiphany)</b>! Much love. :heart:
-
-
 <br>
 
 <a href="https://www.youtube.com/c/TheAiEpiphany" target="_blank">
