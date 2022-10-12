@@ -9,6 +9,8 @@ I'm Geoffroy! Looking for understanding what lie between our two ears :)
 
 > ✨ *_In fact, the greater your science, the deeper your awareness of the mystery._* ✨ **Vladimir Nabokov**, ***Intransigeances*** (1973)
 
+<p align="center">
 <a>
-  <img src="https://github.com/geoffroybertrand/geoffroybertrand/blob/master/images/oneofthesevasesisfake.jpg" alt="Art" width="10%"/>
+  <img src="/images/oneofthesevasesisfake.jpg" width="50%"/>
 </a>
+</p>
