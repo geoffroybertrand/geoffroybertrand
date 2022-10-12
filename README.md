@@ -8,7 +8,7 @@ I'm Geoffroy! Looking for understanding what lie between our two ears :)
 <br>
 
 <a href="https://www.youtube.com/c/TheAiEpiphany" target="_blank">
-  <img src="https://github.com/gordicaleksa/gordicaleksa/blob/master/images/ai_epiphany_banner.jpg" alt="The AI Epiphany banner" width="100%"/>
+  <img src="https://github.com/geoffroybertrand/geoffroybertrand/blob/master/images/oneofthesevasesisfake.jpeg" alt="Human Art" width="100%"/>
 </a>
 
 <!--
